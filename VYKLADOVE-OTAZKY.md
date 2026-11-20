@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k vyhlášce Ministerstva spravedlnosti č. 313/2007 Sb., o odměně insolvenčního správce, o náhradách jeho hotových výdajů, o odměně členů a náhradníků věřitelského výboru a o náhradách jejich nutných výdajů. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md**, **PRAVNI-MODALITY.md** a **HLOUBKOVY-VYKLAD.md**. Odůvodnění vyhlášky ani texty jejích novel v repozitáři nejsou a místní karty rozhodnutí zatím chybějí (složka `judikatura/` se doplní strojově později). Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k vyhlášce Ministerstva spravedlnosti č. 313/2007 Sb., o odměně insolvenčního správce, o náhradách jeho hotových výdajů, o odměně členů a náhradníků věřitelského výboru a o náhradách jejich nutných výdajů. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md**, **PRAVNI-MODALITY.md** a **HLOUBKOVY-VYKLAD.md**. Odůvodnění vyhlášky v repozitáři není a texty jejích novel jsou uloženy jen ve vaultu e-Sbírky (kapitola je využívá k časovému zařazení karet); složka [judikatura/](judikatura/README.md) obsahuje 10 místních karet rozhodnutí (osm Nejvyššího soudu, dvě Vrchního soudu v Praze), které kapitola 01 rozebírá u § 1 až § 7. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -108,7 +108,7 @@ U soudní úvahy nese riziko ten, kdo odměnu žádá; u věřitelského výboru
 
 **Jak ji řešit.** Pro každý výpočtový vstup vytvořte řádek: rozhodná skutečnost (výtěžek, náklady, počet zařazených přihlášek, obrat, data rozhodnutí, uhrazené zálohy, výdaj a cena obvyklá), kdo ji tvrdí, dostupný důkaz, kdo důkaz opatřuje a výpočtový následek neprokázání. Právní argument (např. o funkčním celku) nenahrazuje skutkové zjištění o provázanosti majetku; u odborných otázek oddělte, co zjistí znalec a co hodnotí soud.
 
-**Místní opora.** [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [§ 7](01-odmena-nahrady-is-vybor.md); [§ 8](01-odmena-nahrady-is-vybor.md); [§ 9](01-odmena-nahrady-is-vybor.md); [místní modality](PRAVNI-MODALITY.md); [místní zásady](ZASADY.md) (zásada 7). Místní karty rozhodnutí k dokazování chybějí; složka `judikatura/` se doplní později.
+**Místní opora.** [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [§ 7](01-odmena-nahrady-is-vybor.md); [§ 8](01-odmena-nahrady-is-vybor.md); [§ 9](01-odmena-nahrady-is-vybor.md); [místní modality](PRAVNI-MODALITY.md); [místní zásady](ZASADY.md) (zásada 7). Místní karty se dokazování týkají jen okrajově: u rozhodného účetního období v reorganizaci je třeba doložit účetní období, v němž dlužník účtoval v roce předcházejícím započetí posuzovaného roku (NS 29 NSCR 2/2022), u počtu přihlášek se dokládá každá zařazená přihláška i u téhož věřitele (Vrchní soud v Praze 3 VSPH 706/2022) a u ušlé odměny opomenutého správce rozhoduje, zda zpeněžení bylo podle pravidelného běhu věcí možné očekávat (NS 29 Cdo 3321/2020, k vyhlášce jen nepřímo).
 
 ## 7. Jaké právní následky, sankce a prostředky ochrany navazují?
 
@@ -120,7 +120,7 @@ Vyhláška sama sankce nestanoví; následky plynou z IZ a projevují se ve vý�
 - [§ 5 — protiargumenty](01-odmena-nahrady-is-vybor.md): „pokud lze použít § 1 až 4, je soud sazbami vázán (s výhradou § 38 odst. 3 IZ).“
 - [§ 7 — kazuistika](01-odmena-nahrady-is-vybor.md): „náklad na externí účetní z podstaty uhradit nelze“.
 - [§ 8 — zvláštní limit v oddlužení](01-odmena-nahrady-is-vybor.md): „Je-li způsobem řešení oddlužení a odměnu hradil stát, uloží soud dlužníku v rozhodnutí, jímž se řízení končí, povinnost nahradit státu vyplacenou částku; správa placení se řídí daňovým řádem (§ 38 odst. 7 IZ).“
-Opravné prostředky proti rozhodnutí o odměně kapitola výslovně nerozebírá; procesní ochranu zachycuje námitkami podle § 298 odst. 3 IZ a projednáním konečné zprávy podle § 304 IZ. Jde o mezeru místního korpusu.
+Opravné prostředky proti rozhodnutí o odměně kapitola soustavně nerozebírá; procesní ochranu zachycuje námitkami podle § 298 odst. 3 IZ a projednáním konečné zprávy podle § 304 IZ. Místní karty doplňují dva body: proti usnesení o povolení zálohy na odměnu a hotové výdaje není odvolání přípustné (NS 29 NSCR 130/2019) a usnesení o výplatě podílu dříve činnému správci je exekučním titulem jen pro pohledávku za podstatou, exekuce na majetek správce je vyloučena (NS 29 Cdo 3391/2020). Ve zbytku jde o mezeru místního korpusu.
 
 **Jak ji řešit.** Spojte porušenou primární normu se sekundárním následkem, osobou, která jej uplatní, příslušným orgánem a výsledkem pro výpočet. Oddělte nepřiznání nároku (neprokázání, nesplnění podmínky), soudní korekci, přesun nákladu na správce, povinnost dlužníka nahradit státu vyplacenou částku a systémový následek (přeměna reorganizace v konkurs); jejich souběh musí mít oporu v místním textu.
 
@@ -152,12 +152,22 @@ Typické střety: (a) zajištění nároku správce × ochrana dlužníka a stá
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Repozitář zatím neobsahuje **žádnou** místní kartu rozhodnutí; v systematickém souboru zásad je odkazováno na **0** místních karet s použitelnou citací a kapitoly neuvádějí žádnou spisovou značku. Poznámka k metodě to vysvětluje: „Komentář neobsahuje judikaturu a neuvádí spisové značky, protože místní materiály repozitáře k vyhlášce žádné rozhodnutí neobsahují.“
-Místní korpus tedy neposkytuje citovatelnou judikatorní tezi a judikatorní odpověď se nesmí domýšlet. Složka `judikatura/` se doplní strojově později; do té doby jde o **evidovanou mezeru**. Otázky, k nimž budou budoucí karty přiřazovány (vztah minim, funkční celek, hrubý základ a DPH, strop a garantovaná částka v oddlužení, druhy zpeněžení, DPH v limitech úhrady státem, obrat, dělení odměny, základ stropů 5 %, kritéria soudní korekce, časová působnost sazeb), jsou vyjmenovány ve vrstvě 9 [hloubkového výkladu](HLOUBKOVY-VYKLAD.md).
+Složka [judikatura/](judikatura/README.md) obsahuje **10** místních karet: osm rozhodnutí Nejvyššího soudu a dvě rozhodnutí Vrchního soudu v Praze (3 VSPH 706/2022 a 2 VSPH 91/2011 — karty je vedou s předponou „NS“, jde však o rozhodnutí vrchního soudu, nikoli Nejvyššího soudu). Kapitola 01 je cituje u § 1, § 2, § 2a, § 3, § 4, § 5, § 6 a § 7 a ke každé připojuje odstavec „K místní judikaturní kartě …“ s nosným závěrem, časovou vrstvou a hranicemi. Úvod vymezuje metodu: „komentář uvádí spisové značky jen podle těchto karet a nepředstírá rozhodovací praxi, kterou místní prameny nedokládají.“
+Z karet plynou tyto závěry ve vztahu ke znění účinnému od 1. 10. 2024:
+- **vyřešeno — minimum v konkursu** (NS 29 NSCR 122/2018, přímo): při zpeněžení nejméně 45 000 Kč podle § 1 odst. 5 a dále 1 000 Kč za přihlášku podle § 2a; bez zpeněžení se § 1 nepoužije, při alespoň jedné přezkoumané přihlášce náleží nejméně 45 000 Kč podle § 2a věty třetí, jinak se odměna určí podle § 5; minima se nesčítají. Starší NS 29 NSCR 27/2010 (vydané před vložením § 2a) platí dnes jen zúženě;
+- **vyřešeno — rozhodné účetní období v dalších letech reorganizace** (NS 29 NSCR 2/2022, přímo);
+- **vyřešeno — jediná celková odměna při více správcích** (NS 29 NSCR 54/2013, přímo) a výplata podílu dříve činnému správci z podstaty bez exekuce na majetek správce (NS 29 Cdo 3391/2020, přímo);
+- **vyřešeno — více přihlášek téhož věřitele** se počítá samostatně, s výhradou korekce podle § 38 odst. 3 IZ (Vrchní soud v Praze 3 VSPH 706/2022, přímo; nejde o rozhodnutí Nejvyššího soudu);
+- **procesně** — usnesení o povolení zálohy na odměnu a hotové výdaje je dohlédacím rozhodnutím bez odvolání (NS 29 NSCR 130/2019; k § 3 a § 7 jen nepřímo);
+- **jen obdobně** — vedle odměny podle § 2 nenáleží odměna za inkaso zajištěných pohledávek v reorganizaci (NS 29 NSCR 9/2016, vykládá § 2 ve znění do 31. 12. 2013, které vyhláška č. 398/2013 Sb. nahradila);
+- **přímo nepoužitelné** — Vrchní soud v Praze 2 VSPH 91/2011 vykládá dřívější § 285 odst. 4 IZ o bezplatném převodu bytů a nebytových prostor; dnešní § 285 odst. 4 IZ upravuje jinou věc a obecná myšlenka (kritéria § 5 pro zvláštní činnost) svědčí jen obdobně;
+- **s § 7 věcně nesouvisí** — NS 29 Cdo 3321/2020 (DPH se k náhradě škody nepřipočítává; ušlá odměna opomenutého správce ze zpeněžení podle pravidelného běhu věcí).
 
-**Jak ji řešit.** Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady (způsob řešení úpadku, fáze řízení, osoba správce). Ověřte, zda soud vykládal stejné znění vyhlášky a IZ; tarifní závěr ze starší sazby nepřenášejte na novou. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; do doplnění karet uvádějte u judikatorních úvah výslovně mezeru.
+Přehled s časovou vrstvou a přiřazením k jedenácti sporným otázkám je ve vrstvě 9 [hloubkového výkladu](HLOUBKOVY-VYKLAD.md). Bez karty zůstávají § 7a až § 10 a otázky funkčního celku, hrubého základu a DPH u zajištění, stropu a garantované částky podle § 3 odst. 4, druhů zpeněžení, DPH v limitech úhrady státem, základu stropů 5 % a kritérií soudní korekce; tam jde nadále o **evidovanou mezeru**.
 
-**Místní opora.** [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md); [místní zásady](ZASADY.md) (oddíl Metoda); [Poznámka k metodě](00-uvod.md)
+**Jak ji řešit.** U každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady (způsob řešení úpadku, fáze řízení, osoba správce). Rozlišujte Nejvyšší soud a Vrchní soud v Praze. Ověřte, zda soud vykládal stejné znění vyhlášky a IZ (29 NSCR 9/2016 — § 2 do 31. 12. 2013; 29 NSCR 27/2010 — doba před vložením § 2a; 2 VSPH 91/2011 — dřívější § 285 odst. 4 IZ); tarifní závěr ze starší sazby nepřenášejte na novou. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; u otázek bez karty uvádějte výslovně mezeru.
+
+**Místní opora.** [místní judikaturní karty](judikatura/README.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md); [místní zásady](ZASADY.md) (oddíl Metoda, zásady 2 až 6, 9 a 11); [Poznámka k metodě](00-uvod.md); [kapitola 01](01-odmena-nahrady-is-vybor.md) (odstavce ke kartám u § 1 až § 7)
 
 ## 10. Jaké systematické, kolizní a časové vazby mohou změnit odpověď?
 
@@ -165,27 +175,28 @@ Místní korpus tedy neposkytuje citovatelnou judikatorní tezi a judikatorní o
 Systematické vazby jsou soustředěny v oddílech [Zmocnění a vztah k insolvenčnímu zákonu](00-uvod.md) a [Vazby na jiné předpisy](00-uvod.md) a ve vrstvě 11 [hloubkového výkladu](HLOUBKOVY-VYKLAD.md). Zákon určuje konstrukci i pořadí: „Základní konstrukci odměny v konkursu stanoví § 38 odst. 1 věta druhá IZ“ a „Pořadí uspokojení určuje zákon: odměna a hotové výdaje správce vzniklé po rozhodnutí o úpadku jsou pohledávkou za majetkovou podstatou [§ 168 odst. 2 písm. a) IZ]“. Meze zmocnění se projevují i v detailu: „zmocnění v § 431 písm. b) IZ se týká jen minimální zálohy podle § 136 odst. 5 IZ.“
 Časové, přechodné nebo novelizační uzly: [§ 10 — Účinnost](01-odmena-nahrady-is-vybor.md), k němuž kapitola uvádí: „Prováděcí předpis tak mohl být aplikován od prvního dne, kdy bylo možné vést insolvenční řízení podle IZ.“; [Znění, novelizace a časová působnost](HLOUBKOVY-VYKLAD.md) (tři časové osy: intertemporální, vnitřní a dvojí konsolidace — vyhláška k 1. 10. 2024, IZ k 1. 1. 2026); [Procesní sled, příslušnost, forma a lhůty](HLOUBKOVY-VYKLAD.md).
 
-**Jak ji řešit.** U každé vazby určete vztah provedení, speciality, subsidiarity nebo přednosti; zákonný limit vyhláška nemůže zvýšit a ustanovení nad rámec zmocnění soud nepoužije (čl. 95 odst. 1 Ústavy). Poté stanovte rozhodné znění vyhlášky i IZ v čase a přechodné pravidlo příslušné novely; protože texty novel v repozitáři nejsou, časovou otázku ponechte otevřenou, dokud nebude ověřena.
+**Jak ji řešit.** U každé vazby určete vztah provedení, speciality, subsidiarity nebo přednosti; zákonný limit vyhláška nemůže zvýšit a ustanovení nad rámec zmocnění soud nepoužije (čl. 95 odst. 1 Ústavy). Poté stanovte rozhodné znění vyhlášky i IZ v čase a přechodné pravidlo příslušné novely; texty novel jsou uloženy ve vaultu e-Sbírky (č. 488/2012, 398/2013, 133/2019 a 253/2024 Sb.) a kapitola je zatím využívá jen k časovému zařazení karet, u sazeb proto časovou otázku ověřte v textu příslušné novely. U judikaturní karty vždy ověřte, zda se vykládaný text od rozhodnutí nezměnil (např. § 2 nahrazený od 1. 1. 2014, § 2a vložený od 1. 1. 2014).
 
 **Místní opora.** [rejstřík a místní vazby](INDEX.md); [§ 7a](01-odmena-nahrady-is-vybor.md); [§ 8](01-odmena-nahrady-is-vybor.md); [§ 10 — Účinnost](01-odmena-nahrady-is-vybor.md); [Znění, novelizace a časová působnost](HLOUBKOVY-VYKLAD.md); [Systematické, ústavní, evropské a kolizní vazby](HLOUBKOVY-VYKLAD.md); [místní zásady](ZASADY.md) (zásady 1 a 11)
 
 ## 11. Kde jsou konkurenční výklady, protiargumenty a hraniční případy?
 
 **Odpověď pro tento komentář.**
-Kapitola obsahuje 12 oddílů G. Protiargumenty a rizika a 7 samostatných oddílů Výkladové otázky. Úvod shrnuje nejdůležitější spory: „Kde text vyhlášky nedává jednoznačnou odpověď (např. vztah minima podle § 1 odst. 5 a § 2a věty třetí, hranice funkčního celku, rozsah stropu podle § 3 odst. 4, zahrnutí DPH do limitů úhrady státem), je otázka výslovně označena jako výkladová.“
+Kapitola obsahuje 12 oddílů G. Protiargumenty a rizika a 7 samostatných oddílů Výkladové otázky. Úvod shrnuje nejdůležitější spory a odlišuje otázky rozhodnuté místními kartami: „Karty rozhodují některé otázky, které text vyhlášky sám neřeší: vztah minima podle § 1 odst. 5 a § 2a věty třetí, rozhodné účetní období v dalších letech reorganizace, jedinou celkovou odměnu při více správcích a počítání více přihlášek téhož věřitele.“ a „Kde text vyhlášky ani místní karty nedávají jednoznačnou odpověď (např. hranice funkčního celku, rozsah stropu podle § 3 odst. 4, zahrnutí DPH do limitů úhrady státem), je otázka výslovně označena jako výkladová.“
 Místní kapitoly výslovně zachycují zejména tyto otázky nebo námitky:
-- [§ 1 a § 2a](01-odmena-nahrady-is-vybor.md) — minimum celkové odměny × dvojí minimum; hranice funkčního celku; DPH v částce vydávané zajištěnému věřiteli
-- [§ 2](01-odmena-nahrady-is-vybor.md) — pojem obratu, hraniční hodnota pásma, rozhodné účetní období, doba před povolením reorganizace
+- [§ 1 a § 2a](01-odmena-nahrady-is-vybor.md) — vztah minim (**vyřešeno** — NS 29 NSCR 122/2018: minimum podle § 1 odst. 5 předpokládá zpeněžení, § 2a se přičítá, minima se nesčítají); počítání více přihlášek téhož věřitele (**vyřešeno** — Vrchní soud v Praze 3 VSPH 706/2022); hranice funkčního celku; DPH v částce vydávané zajištěnému věřiteli
+- [§ 2](01-odmena-nahrady-is-vybor.md) — pojem obratu, hraniční hodnota pásma, rozhodné účetní období (**vyřešeno** — NS 29 NSCR 2/2022), doba před povolením reorganizace
 - [§ 3](01-odmena-nahrady-is-vybor.md) — rozsah stropu podle záloh, garantovaná částka jako pevná částka, hranice písm. b) a c), souběh úprav paušálu
 - [§ 4](01-odmena-nahrady-is-vybor.md) — neschválení oddlužení spojené s konkursem
-- [§ 5](01-odmena-nahrady-is-vybor.md) — částečná určitelnost odměny
-- [§ 6](01-odmena-nahrady-is-vybor.md) — podíl odděleného a zvláštního správce, zaokrouhlení
+- [§ 4](01-odmena-nahrady-is-vybor.md) — zvláštní odměna za inkaso zajištěných pohledávek z doby reorganizace (**vyloučena** — NS 29 NSCR 9/2016, ke znění § 2 do 31. 12. 2013, dnes obdobně)
+- [§ 5](01-odmena-nahrady-is-vybor.md) — částečná určitelnost odměny (pro konkurs bez zpeněžení **vyřešeno** — NS 29 NSCR 122/2018, § 5 jen bez zařazené přihlášky; mezidobí před povolením reorganizace otevřené)
+- [§ 6](01-odmena-nahrady-is-vybor.md) — jediná celková odměna a výplata podílu (**vyřešeno** — NS 29 NSCR 54/2013, NS 29 Cdo 3391/2020); podíl odděleného a zvláštního správce (karta 29 NSCR 54/2013 výklad podporuje, výslovně jej neřeší); zaokrouhlení
 - [§ 7](01-odmena-nahrady-is-vybor.md) — výlučnost paušálu v oddlužení, základ stropu 5 %, cestovní náhrady
-- [§ 8](01-odmena-nahrady-is-vybor.md) — DPH v limitech úhrady státem, minimum v konkursu nad stropem
+- [§ 8](01-odmena-nahrady-is-vybor.md) — DPH v limitech úhrady státem, minimum v konkursu nad stropem (minimum podle § 1 odst. 5 spolu se složkou podle § 2a může limit převýšit i bez DPH — NS 29 NSCR 122/2018)
 - [§ 9](01-odmena-nahrady-is-vybor.md) — společný nebo individuální strop podle odst. 3, prozatímní výbor
 Katalog třinácti sporů s variantami a mírou jistoty je ve vrstvě 10 [hloubkového výkladu](HLOUBKOVY-VYKLAD.md).
 
-**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, účelový a ústavní argument, výpočtový dopad (obě částky) a důvod, proč jeden převáží. Místní judikatorní argument zatím chybí; není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
+**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, účelový a ústavní argument, výpočtový dopad (obě částky) a důvod, proč jeden převáží. Místní judikatorní argument je k dispozici jen u otázek označených výše jako vyřešené (s časovou vrstvou podle vrstvy 9 hloubkového výkladu); není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
 
 **Místní opora.** [místní kapitola](01-odmena-nahrady-is-vybor.md); [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md); [místní zásady](ZASADY.md); [Poznámka k metodě](00-uvod.md)
 
@@ -202,13 +213,13 @@ Aplikační vrstvu lze ověřit zejména v: [01-odmena-nahrady-is-vybor](01-odme
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **2** kapitoly (úvod a kapitola 01) a **0** karet rozhodnutí, doplněné samostatnou mapou zásad, modalit a hloubkového výkladu. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **2** kapitoly (úvod a kapitola 01) a **10** karet rozhodnutí ve složce [judikatura/](judikatura/README.md) (osm Nejvyššího soudu, dvě Vrchního soudu v Praze), doplněné samostatnou mapou zásad, modalit a hloubkového výkladu. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura neposkytuje citovatelnou tezi; složka `judikatura/` se doplní strojově později;
-- odůvodnění vyhlášky, texty novel a jejich přechodná ustanovení v repozitáři nejsou; úvod uvádí: „Pozdější změny, které místní zdroj nezachycuje, se netvrdí.“;
+- místní karty pokrývají jen § 1 až § 7; § 7a až § 10 a řada sporných otázek (funkční celek, hrubý základ a DPH u zajištění, strop a garantovaná částka podle § 3 odst. 4, druhy zpeněžení, DPH v limitech úhrady státem, základ stropů 5 %, kritéria soudní korekce) kartu nemají a tři karty jsou na dnešní znění použitelné jen obdobně (29 NSCR 9/2016), zúženě (29 NSCR 27/2010) nebo přímo vůbec (2 VSPH 91/2011);
+- odůvodnění vyhlášky v repozitáři není; texty novel a jejich přechodná ustanovení jsou jen ve vaultu e-Sbírky a kapitola je využívá pouze k časovému zařazení karet; úvod uvádí: „Pozdější změny, které místní zdroj nezachycuje, se netvrdí.“;
 - odkazy na IZ odpovídají jeho konsolidaci účinné od 1. 1. 2026, vyhláška je komentována ve znění účinném od 1. 10. 2024;
 - zvláštní předpisy o cestovních náhradách nejsou v místní konsolidaci označeny;
-- opravné prostředky proti rozhodnutí o odměně a evropská vazba nejsou rozebrány.
+- opravné prostředky proti rozhodnutí o odměně jsou rozebrány jen dílčím způsobem (usnesení o záloze — NS 29 NSCR 130/2019; podíl dříve činného správce — NS 29 Cdo 3391/2020) a evropská vazba rozebrána není.
 Aktualizaci musí spustit zejména změna sazeb, stropů, minim nebo garantovaných částek vyhlášky, změna IZ v ustanoveních, na která vyhláška nebo kapitola odkazuje číslem (zejména § 38, § 39, § 60, § 136, § 398, § 406, § 412b a § 431 IZ), doplnění místní karty rozhodnutí, rozpor mezi kapitolou a systematickými dokumenty nebo zjištění, že odpověď stojí jen na neoznačeném předpokladu.
 
 **Jak ji řešit.** Na konci každého výkladu veďte krátký stav poznání: ověřené pravidlo, použitý místní zdroj, otevřená otázka a událost vyžadující revizi. Při každé změně sazeb přepočítejte všech 12 kazuistik. Tvrzení bez dohledatelného místního podkladu buď odstraňte, nebo je označte jako hypotézu; absenci rozhodnutí nikdy neformulujte jako ustálený právní závěr.

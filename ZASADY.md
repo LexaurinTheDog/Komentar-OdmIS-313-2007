@@ -4,7 +4,7 @@
 
 ## Metoda
 
-Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — doslovné znění vyhlášky citované v [01-odmena-nahrady-is-vybor.md](01-odmena-nahrady-is-vybor.md) a výklad k jednotlivým paragrafům v téže kapitole; úvodní přehled podává [00-uvod.md](00-uvod.md). Repozitář **neobsahuje žádnou místní judikaturu** k vyhlášce (nemá složku `judikatura/` ani kartu rozhodnutí), a proto zde nejsou uváděny spisové značky ani judikatorní teze. Zásady níže jsou dovozeny z textu vyhlášky, z prováděných ustanovení insolvenčního zákona (dále „IZ"), jak je kapitola cituje, ze systematiky předpisu a z jeho zjevného účelu. Každá zásada je doložena doslovnou citací z kapitoly 01 s uvedením paragrafu, k němuž se citace váže; u citací ze znění vyhlášky je to vyznačeno slovem „znění", u citací z komentáře slovy „výklad", „rizika" nebo „praktický závěr".
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — doslovné znění vyhlášky citované v [01-odmena-nahrady-is-vybor.md](01-odmena-nahrady-is-vybor.md) a výklad k jednotlivým paragrafům v téže kapitole; úvodní přehled podává [00-uvod.md](00-uvod.md). Repozitář obsahuje ve složce [judikatura/](judikatura/README.md) **deset místních karet rozhodnutí** (osm rozhodnutí Nejvyššího soudu, dvě rozhodnutí Vrchního soudu v Praze), které kapitola 01 rozebírá v odstavcích „K místní judikaturní kartě …“ u § 1, 2, 2a, 3, 4, 5, 6 a 7. Kde zásada s kartou souvisí, je na kartu odkázáno spisovou značkou a odkazem do složky judikatura/; judikatorní teze se přebírají jen v rozsahu karty a s její časovou vrstvou (zda závěr platí pro dnešní znění přímo, nebo jen obdobně), doslovné citace zůstávají citacemi z kapitol. Zásady níže jsou dovozeny z textu vyhlášky, z prováděných ustanovení insolvenčního zákona (dále „IZ"), jak je kapitola cituje, ze systematiky předpisu a z jeho zjevného účelu. Každá zásada je doložena doslovnou citací z kapitoly 01 s uvedením paragrafu, k němuž se citace váže; u citací ze znění vyhlášky je to vyznačeno slovem „znění", u citací z komentáře slovy „výklad", „rizika" nebo „praktický závěr".
 
 Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení. Vyhláška je tarifním prováděcím předpisem — její „zásady" jsou proto z velké části zásadami výpočtu a omezení odměny a výdajů, nikoli obecnými hodnotovými proklamacemi.
 
@@ -86,6 +86,14 @@ Vázanost sazbami ovšem neznamená, že vypočtená částka je nedotknutelná.
 >
 > — *[01-odmena-nahrady-is-vybor.md](01-odmena-nahrady-is-vybor.md), § 2 (výklad)*
 
+Subsidiaritu § 5 zpřesňují místní karty. Konkurs bez zpeněžení byl podle [NS 29 NSCR 27/2010](judikatura/NS-29-NSCR-27-2010.md) — vydaného před vložením § 2a — případem § 5; v dnešním znění jej podle [NS 29 NSCR 122/2018](judikatura/NS-29-NSCR-122-2018.md) pokrývá § 2a věta třetí a § 5 zbývá jen pro řízení bez zařazené přihlášky:
+
+> „V konkursu bez zpeněžení se § 5 uplatní jen tehdy, nezařadil-li správce do seznamu žádnou přihlášku; jinak odměnu určuje § 2a věta třetí (29 NSCR 122/2018)."
+>
+> — *[01-odmena-nahrady-is-vybor.md](01-odmena-nahrady-is-vybor.md), § 5 (výklad)*
+
+Rozhodnutí Vrchního soudu v Praze [2 VSPH 91/2011](judikatura/NS-2-VSPH-91-2011.md) použilo kritéria § 5 pro zvláštní činnost správce podle tehdejšího § 285 odst. 4 IZ; protože dnešní § 285 odst. 4 IZ takovou úpravu neobsahuje, svědčí jen obdobně. Soudní korekci podle § 38 odst. 3 IZ výslovně zachovává i rozhodnutí Vrchního soudu v Praze [3 VSPH 706/2022](judikatura/NS-3-VSPH-706-2022.md) k § 2a.
+
 Praktickým důsledkem je dvoukrokový postup: nejprve se odměna vypočte podle příslušného režimu vyhlášky, a teprve poté se posoudí, zda okolnosti případu odůvodňují její přiměřené zvýšení nebo snížení; § 5 přichází v úvahu jen tam, kde první krok vůbec nelze provést.
 
 ## 3. Vazba odměny na výsledek a degresivita sazeb
@@ -113,6 +121,12 @@ Tam, kde výtěžek není vhodným měřítkem výkonu správce, volí vyhlášk
 > „Výtěžek zpeněžení proto není vhodným měřítkem a vyhláška volí měsíční odměnu odstupňovanou podle velikosti podniku vyjádřené obratem."
 >
 > — *[01-odmena-nahrady-is-vybor.md](01-odmena-nahrady-is-vybor.md), § 2 (výklad)*
+
+Rozhodné období pro obrat v dalších letech reorganizace určila místní karta [NS 29 NSCR 2/2022](judikatura/NS-29-NSCR-2-2022.md), která se vztahuje k dnešnímu znění § 2:
+
+> „rozhoduje tedy skutečné účetní období dlužníka, nikoli převažující překryv s rokem reorganizace."
+>
+> — *[01-odmena-nahrady-is-vybor.md](01-odmena-nahrady-is-vybor.md), § 2 (výkladové otázky)*
 
 Praktickým důsledkem zásady je, že výše odměny je přímo závislá na správném vymezení základu (odečet nákladů zpeněžení a správy podle § 298 odst. 4 IZ, rozlišení zajištěného a nezajištěného výtěžku); chyba v základu se v degresivní stupnici promítá nelineárně.
 
@@ -144,11 +158,17 @@ Obdobná logika platí pro odměnu z počtu přezkoumaných přihlášek. Zákla
 >
 > — *[01-odmena-nahrady-is-vybor.md](01-odmena-nahrady-is-vybor.md), § 2a (výklad)*
 
-Praktickým důsledkem zásady je, že správce nesmí základ odměny „vyrábět" formou zpeněžení nebo podání; hranice funkčního celku však vyhláška nedefinuje a u volněji provázaného majetku zůstává výkladovou otázkou, kterou je vhodné v návrhu na vydání výtěžku transparentně odůvodnit.
+U přihlášek se však zásada neprosazuje při jejich počítání, ale až soudní korekcí; podle rozhodnutí Vrchního soudu v Praze [3 VSPH 706/2022](judikatura/NS-3-VSPH-706-2022.md) se počítá každá přezkoumaná přihláška i u téhož věřitele:
+
+> „Více samostatně podaných přihlášek téhož věřitele se počítá každá zvlášť"
+>
+> — *[01-odmena-nahrady-is-vybor.md](01-odmena-nahrady-is-vybor.md), § 2a (výklad)*
+
+Praktickým důsledkem zásady je, že správce nesmí základ odměny „vyrábět" formou zpeněžení nebo podání (u přihlášek s tím, že nepřiměřenost řeší jen korekce podle § 38 odst. 3 IZ); hranice funkčního celku však vyhláška nedefinuje a u volněji provázaného majetku zůstává výkladovou otázkou, kterou je vhodné v návrhu na vydání výtěžku transparentně odůvodnit.
 
 ## 5. Jednota odměny a zákaz kumulace
 
-**Zakotvení:** § 4, § 6, § 2a věta třetí ve vztahu k § 1 odst. 5
+**Zakotvení:** § 4, § 6, § 2a věta třetí ve vztahu k § 1 odst. 5; místní karty NS 29 NSCR 122/2018, 29 NSCR 54/2013, 29 Cdo 3391/2020 a 29 NSCR 9/2016
 
 Za jedno insolvenční řízení vzniká v zásadě **jedna odměna**. Při změně způsobu řešení úpadku se proto odměny nesčítají, ale porovnávají:
 
@@ -160,15 +180,27 @@ Za jedno insolvenční řízení vzniká v zásadě **jedna odměna**. Při změ
 >
 > — *[01-odmena-nahrady-is-vybor.md](01-odmena-nahrady-is-vybor.md), § 4 odst. 1 (výklad)*
 
-Stejná myšlenka vede kapitolu k odmítnutí dvojího minima v konkursu bez zpeněžení:
+Kumulaci minim vylučuje místní karta [NS 29 NSCR 122/2018](judikatura/NS-29-NSCR-122-2018.md): minimum podle § 1 odst. 5 předpokládá zpeněžení, minimum podle § 2a věty třetí jeho absenci, a k odměně podle § 1 se „dále" přičítá jen složka 1 000 Kč za přihlášku. Kapitola to shrnuje takto:
 
-> „kdyby se § 1 odst. 5 vztahoval jen na výtěžkovou složku, vedla by kumulace k minimu 90 000 Kč i v řízení bez jakéhokoli zpeněžení, což by větu třetí § 2a činilo nadbytečnou."
+> „Věta třetí tedy není doplněním odměny podle § 1 odst. 5 a obě minima se nikdy neuplatní současně"
 >
 > — *[01-odmena-nahrady-is-vybor.md](01-odmena-nahrady-is-vybor.md), § 2a (výklad)*
+
+Obdobně nelze vedle paušální odměny v reorganizaci přiznat zvláštní odměnu za inkaso zajištěných pohledávek; místní karta [NS 29 NSCR 9/2016](judikatura/NS-29-NSCR-9-2016.md) to dovodila ke znění § 2 účinnému do 31. 12. 2013, pro dnešní znění platí obdobně:
+
+> „Jinou samostatnou odměnu za jednotlivé úkony v reorganizaci vyhláška nezná"
+>
+> — *[01-odmena-nahrady-is-vybor.md](01-odmena-nahrady-is-vybor.md), § 2 (výklad)*
 
 Působí-li v řízení více osob ve funkci správce, odměna se mezi ně dělí, nikoli násobí:
 
 > „Vyhláška tak vychází z toho, že za řízení vzniká jedna odměna určená podle § 1 až 5, která se mezi osoby, jež funkci vykonávaly, dělí; nejde o samostatné odměny pro každého."
+>
+> — *[01-odmena-nahrady-is-vybor.md](01-odmena-nahrady-is-vybor.md), § 6 odst. 1 (výklad)*
+
+Tento model výslovně potvrzuje místní karta [NS 29 NSCR 54/2013](judikatura/NS-29-NSCR-54-2013.md), použitelná na dnešní § 6 odst. 1 přímo; místní karta [NS 29 Cdo 3391/2020](judikatura/NS-29-Cdo-3391-2020.md) pak určuje, že podíl dříve činného správce se vyplácí z majetkové podstaty:
+
+> „Tento model potvrzuje 29 NSCR 54/2013: nejprve se stanoví jediná celková odměna pro celé řízení, teprve potom podíly, a celkovou odměnu nelze navyšovat jen proto, že bylo činných více správců."
 >
 > — *[01-odmena-nahrady-is-vybor.md](01-odmena-nahrady-is-vybor.md), § 6 odst. 1 (výklad)*
 
@@ -205,6 +237,8 @@ Odvrácenou stranou zásady je důkazní břemeno toho, kdo odměnu požaduje:
 > „bez průkazných podkladů o rozsahu činnosti (zprávy, výkazy) soud odměnu určí při spodní hranici."
 >
 > — *[01-odmena-nahrady-is-vybor.md](01-odmena-nahrady-is-vybor.md), § 5 (rizika)*
+
+U více správců slouží tato kritéria jen k rozdělení jediné celkové odměny, nikoli k jejímu navýšení (místní karta [NS 29 NSCR 54/2013](judikatura/NS-29-NSCR-54-2013.md)).
 
 Praktickým důsledkem je, že správce (a obdobně člen věřitelského výboru) by měl průběžně dokumentovat své úkony — zprávy o činnosti, výkazy úkonů a časů, zápisy z jednání —, protože právě z nich soud délku, rozsah a náročnost činnosti posoudí.
 
@@ -279,6 +313,14 @@ Vyhláška ve spojení s IZ zajišťuje, aby správce za svou činnost skutečn�
 > „Odměna a hotové výdaje insolvenčního správce vzniklé po rozhodnutí o úpadku jsou pohledávkou za majetkovou podstatou [§ 168 odst. 2 písm. a) IZ], odměna a nutné výdaje členů a náhradníků věřitelského výboru rovněž [§ 168 odst. 1 písm. c) IZ]; při nedostatku prostředků se odměna a hotové výdaje správce uspokojují přednostně (§ 305 odst. 2 IZ, v oddlužení § 398 odst. 4 IZ)."
 >
 > — *[01-odmena-nahrady-is-vybor.md](01-odmena-nahrady-is-vybor.md), úvod kapitoly k § 1–10 (výklad)*
+
+Povahu pohledávky za majetkovou podstatou má i podíl dříve činného správce na jediné celkové odměně; podle místní karty [NS 29 Cdo 3391/2020](judikatura/NS-29-Cdo-3391-2020.md) je usnesení o jeho výplatě exekučním titulem jen vůči podstatě:
+
+> „Podíl dříve činného správce na jediné celkové odměně vyplácí správce dlužníka z majetkové podstaty; usnesení, které mu to ukládá, je exekučním titulem pro pohledávku za podstatou, nikoli proti majetku správce (29 Cdo 3391/2020)."
+>
+> — *[01-odmena-nahrady-is-vybor.md](01-odmena-nahrady-is-vybor.md), § 6 odst. 1 (výklad)*
+
+Procesně souvisí se zajištěním nároku i zálohy na odměnu a výdaje: o jejich povolení rozhoduje soud při dohlédací činnosti a odvolání proti takovému usnesení není přípustné (místní karta [NS 29 NSCR 130/2019](judikatura/NS-29-NSCR-130-2019.md); netýká se záloh placených dlužníkem podle § 136 IZ).
 
 V oddlužení, kde podstata zpravidla chybí, plní tuto funkci zálohy a srážky ze mzdy:
 
@@ -362,7 +404,11 @@ Ustanovení o účinnosti však neurčuje, kterým zněním se řídí odměna v
 >
 > — *[01-odmena-nahrady-is-vybor.md](01-odmena-nahrady-is-vybor.md), § 10 (výklad)*
 
-Praktickým důsledkem zásady právní jistoty je, že u každého výpočtu odměny v dlouho trvajícím řízení je třeba nejprve určit rozhodné znění sazeb; místní konsolidace účinná od 1. 10. 2024 historická znění ani přechodná ustanovení novel neobsahuje, a komentář je proto netvrdí.
+Praktickým důsledkem zásady právní jistoty je, že u každého výpočtu odměny v dlouho trvajícím řízení je třeba nejprve určit rozhodné znění sazeb; místní konsolidace účinná od 1. 10. 2024 historická znění ani přechodná ustanovení novel neobsahuje, a komentář je proto netvrdí. Výjimkou jsou poznámky k místním judikaturním kartám, které pro posouzení časové použitelnosti karet pracují s texty novelizačních vyhlášek č. 488/2012 Sb., 398/2013 Sb., 133/2019 Sb. a 253/2024 Sb. uloženými ve vaultu e-Sbírky. Zásada právní jistoty se tu projevuje tak, že závěr karty se přenáší na dnešní znění jen tehdy, nezměnil-li se vykládaný text: [NS 29 NSCR 9/2016](judikatura/NS-29-NSCR-9-2016.md) vykládá § 2 ve znění do 31. 12. 2013, které vyhláška č. 398/2013 Sb. nahradila (dnes jen obdobně), [NS 29 NSCR 27/2010](judikatura/NS-29-NSCR-27-2010.md) pochází z doby před vložením § 2a (dnes jen zúženě) a rozhodnutí Vrchního soudu v Praze [2 VSPH 91/2011](judikatura/NS-2-VSPH-91-2011.md) vykládá dřívější § 285 odst. 4 IZ, jehož obsah dnešní konsolidace IZ nezná.
+
+> „Konsolidace sama novelizační předpisy ani jejich přechodná ustanovení neobsahuje; ve vaultu e-Sbírky jsou však samostatně uloženy novelizační vyhlášky č. 488/2012 Sb., 398/2013 Sb., 133/2019 Sb. a 253/2024 Sb., s nimiž komentář pracuje jen při časovém zařazení judikaturních karet u § 1 až 7"
+>
+> — *[01-odmena-nahrady-is-vybor.md](01-odmena-nahrady-is-vybor.md), § 10 (výklad)*
 
 ---
 
