@@ -35,6 +35,13 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 122/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E0FA9EC514F2E511C12585F1001878E7?openDocument) — 28. 7. 2020, kat. A
+  > „Bez ohledu na konečnou výši výtěžku zpeněžení má insolvenční správce při zpeněžení majetku v konkursu jednak nárok na odměnu ve výši nejméně 45.000 Kč (dle § 1 odst. 5 vyhlášky č. 313/2007 Sb., ve znění pozdějších předpisů), jednak („dále“) nárok na odměnu ve výši 1.000 Kč za každou přezkoumanou přihlášku pohledávky (do limitu 1.000.000 Kč) [§ 2a vyhlášky]. V těch případech, kdy ke zpeněžení majetku vůbec nedojde, platí, že podle ustanovení § 1 této vyhlášky nevznikl insolvenčnímu správci nárok na odměnu za zpeněžování. Jestliže insolvenční správce v takovém insolvenčním řízení nepřezkoumal žádnou přihlášku, lze jeho odměnu určit jen podle § 5 vyhlášky. Insolvenční správce, který v takovém insolvenčním řízení přezkoumal alespoň jednu přihlášku, má nárok na odměnu minimálně ve výši 45.000 Kč (§ 2a poslední věta vyhlášky). Úprava obsažená v ustanovení § 2a poslední věty vyhlášky (však)…"
+- *NS* [29 NSCR 27/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C1FA9E3D26EC61C3C1257A4E0067321E?openDocument) — 29. 9. 2010, kat. A
+  > „V insolvenčním řízení, v němž byl dlužníkův úpadek řešen konkursem a ve kterém nebyl zpeněžen žádný majetek náležející do majetkové podstaty dlužníka, nelze odměnu insolvenčního správce určit podle § 1 vyhlášky č. 313/2007 Sb. a je namístě postupovat podle § 5 této vyhlášky"
+
 #### Vazba na zákon a zmocnění
 
 § 38 odst. 1 věta druhá IZ stanoví, že v případě konkursu se výše odměny insolvenčního správce určí z počtu přezkoumaných přihlášek pohledávek a z výtěžku zpeněžení určeného k rozdělení mezi věřitele. § 1 provádí druhou, výtěžkovou složku; první složku upravuje § 2a. Zmocnění k určení „způsobu určení odměny" a její „nejvyšší přípustné výše" dnes obsahuje § 431 písm. b) IZ (k posunu písmen viz úvod kapitoly). Vyhláškou určená odměna není konečná: insolvenční soud ji může podle okolností případu po projednání s věřitelským výborem přiměřeně zvýšit nebo snížit (§ 38 odst. 3 věta druhá a třetí IZ), přičemž zákon jako důvod snížení výslovně uvádí porušení povinností správce nebo nenavržení částečného rozvrhu, ačkoli to stav zpeněžení umožňoval.
@@ -118,6 +125,15 @@ Odměna v konkursu je součtem dvou degresivních složek — z výtěžku každ
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 2/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D5D70BA69DFC2787C12589650041BC6B?openDocument) — 22. 12. 2022, kat. A
+  > „Účetním obdobím předchozího roku trvání reorganizace podle ustanovení § 2 písm. b/ vyhlášky č. 313/2007 Sb. (ve znění pozdějších předpisů) se rozumí jen to účetní období, ve kterém dlužník účtoval podle zákona o účetnictví v roce předcházejícím době započetí „následujícího roku“ trvání reorganizace"
+- *NS* [29 NSCR 9/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/24740340A5B936A3C12580FB0031030C?openDocument) — 28. 2. 2017, kat. A
+  > „Insolvenčnímu správci nepřísluší (vedle odměny určené ustanovením § 2 vyhlášky č. 313/2007 Sb., ve znění účinném do 31. prosince 2013) odměna za "inkaso" pohledávek dlužníka, jimiž byly zajištěny pohledávky věřitelů dlužníka, realizované v období od právní moci rozhodnutí o povolení reorganizace do přeměny reorganizace v konkurs"
+- *NS* [29 NSCR 54/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2A3D7F0A9A610FE0C1257F310036AF02?openDocument) — 30. 9. 2015, kat. A
+  > „Je-li v průběhu insolvenčního řízení činných více správců, je nezbytné v souladu s ustanovením § 6 vyhlášky č. 313/20007 Sb. nejprve stanovit jedinou celkovou odměnu insolvenčních správců pro celé řízení (dle ustanovení § 1 až § 5 vyhlášky) a následně určit podíly jednotlivých správců na této odměně. Celkovou odměnu nelze navyšovat jen proto, že v řízení bylo činných více insolvenčních správců"
+
 #### Povaha odměny v reorganizaci
 
 V reorganizaci dlužník zpravidla zachovává provoz podniku a dispoziční oprávnění, insolvenční správce vykonává dohled nad jeho činností, pokračuje ve zjišťování a soupisu podstaty, vede incidenční spory a podává zprávy věřitelskému výboru (§ 331 IZ). Výtěžek zpeněžení proto není vhodným měřítkem a vyhláška volí **měsíční odměnu** odstupňovanou podle velikosti podniku vyjádřené obratem. Zákonnou oporou je § 38 odst. 1 věta první a odst. 8 IZ a zmocnění v § 431 písm. b) IZ; IZ sám způsob určení odměny v reorganizaci nestanoví a ponechává jej prováděcímu předpisu.
@@ -187,6 +203,13 @@ V reorganizaci náleží správci měsíční paušál podle ročního ekvivalen
 > Insolvenčnímu správci náleží dále odměna z počtu přezkoumaných přihlášek pohledávek věřitelů, která činí za každou přezkoumanou přihlášku pohledávky věřitele částku 1 000 Kč, nejvýše však 1 000 000 Kč celkem za přezkoumané přihlášky pohledávek. Za přezkoumanou přihlášku pohledávky věřitele se považuje taková přihláška pohledávky věřitele, kterou insolvenční správce zařadil do seznamu přihlášených pohledávek podle insolvenčního zákona. Pokud je způsobem řešení dlužníkova úpadku konkurs a nedošlo-li ke zpeněžení, náleží insolvenčnímu správci odměna z počtu přezkoumaných přihlášek pohledávek věřitelů nejméně 45 000 Kč.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [3 VSPH 706/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3CE2477718FF72C3C1258B560031C6B2?openDocument) — 23. 8. 2022, kat. A
+  > „Odměna insolvenčního správce se ve smyslu ustanovení § 2a vyhlášky č. 313/2007 Sb. ve znění pozdějších předpisů ve spojení s § 38 odst. 1 insolvenčního zákona určuje z počtu přezkoumaných přihlášek pohledávek i tehdy, jde-li o více přihlášek téhož věřitele. Právo insolvenčního soudu postupovat u takto určené odměny podle § 38 odst. 3 věty druhé insolvenčního zákona tím není dotčeno"
+- *NS* [29 NSCR 122/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E0FA9EC514F2E511C12585F1001878E7?openDocument) — 28. 7. 2020, kat. A
+  > „Bez ohledu na konečnou výši výtěžku zpeněžení má insolvenční správce při zpeněžení majetku v konkursu jednak nárok na odměnu ve výši nejméně 45.000 Kč (dle § 1 odst. 5 vyhlášky č. 313/2007 Sb., ve znění pozdějších předpisů), jednak („dále“) nárok na odměnu ve výši 1.000 Kč za každou přezkoumanou přihlášku pohledávky (do limitu 1.000.000 Kč) [§ 2a vyhlášky]. V těch případech, kdy ke zpeněžení majetku vůbec nedojde, platí, že podle ustanovení § 1 této vyhlášky nevznikl insolvenčnímu správci nárok na odměnu za zpeněžování. Jestliže insolvenční správce v takovém insolvenčním řízení nepřezkoumal žádnou přihlášku, lze jeho odměnu určit jen podle § 5 vyhlášky. Insolvenční správce, který v takovém insolvenčním řízení přezkoumal alespoň jednu přihlášku, má nárok na odměnu minimálně ve výši 45.000 Kč (§ 2a poslední věta vyhlášky). Úprava obsažená v ustanovení § 2a poslední věty vyhlášky (však)…"
 
 #### Složka odměny za přezkum přihlášek
 
@@ -270,6 +293,11 @@ Za každou přihlášku zařazenou do seznamu přihlášených pohledávek nále
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 130/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/014EC774C3E841B5C12585EC0018AF4E?openDocument) — 29. 6. 2020, kat. A
+  > „Usnesení, jímž insolvenční soud rozhoduje o tom, zda insolvenčnímu správci povolí zálohu na odměnu a hotové výdaje, je rozhodnutím, které vydává při výkonu dohlédací činnosti [§ 10 písm. b) insolvenčního zákona ve spojení s § 11 insolvenčního zákona] a proti němuž není odvolání přípustné, jelikož insolvenční zákon nestanoví jinak (§ 91 insolvenčního zákona)"
+
 #### Dvě formy oddlužení a dva režimy odměny
 
 IZ zná oddlužení zpeněžením majetkové podstaty a oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty (§ 398 odst. 1 IZ). Vyhláška jim přiřazuje odlišné režimy: u první formy, u níž se postupuje obdobně jako při zpeněžení v konkursu (§ 398 odst. 2 IZ), odkazuje na § 1 (odst. 1); u druhé formy kombinuje měsíční paušál s odměnou ze zpeněžení (odst. 2 až 5). Zákonnou oporou je § 38 odst. 1, 6 až 8 IZ a zmocnění v § 431 písm. b) IZ.
@@ -350,6 +378,11 @@ V oddlužení zpeněžením podstaty se odměna řídí § 1 (minimum 45 000 Kč
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 9/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/24740340A5B936A3C12580FB0031030C?openDocument) — 28. 2. 2017, kat. A
+  > „Insolvenčnímu správci nepřísluší (vedle odměny určené ustanovením § 2 vyhlášky č. 313/2007 Sb., ve znění účinném do 31. prosince 2013) odměna za "inkaso" pohledávek dlužníka, jimiž byly zajištěny pohledávky věřitelů dlužníka, realizované v období od právní moci rozhodnutí o povolení reorganizace do přeměny reorganizace v konkurs"
+
 #### Účel — změna způsobu řešení úpadku v průběhu řízení
 
 § 4 řeší situace, kdy se v témže řízení vystřídají dva způsoby řešení úpadku a s nimi dva odlišné režimy odměny. Vyhláška nezvolila součet, ale **princip vyšší z obou částek**: odměna se určí podle § 1 (konkurs), nejméně však ve výši odměny, která by náležela podle režimu předcházejícího konkursu. Zákonnou oporou je § 38 odst. 1 a 8 IZ a zmocnění v § 431 písm. b) IZ.
@@ -412,6 +445,17 @@ Při přeměně reorganizace v konkurs nebo při zrušení schváleného oddluž
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 9/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/24740340A5B936A3C12580FB0031030C?openDocument) — 28. 2. 2017, kat. A
+  > „Insolvenčnímu správci nepřísluší (vedle odměny určené ustanovením § 2 vyhlášky č. 313/2007 Sb., ve znění účinném do 31. prosince 2013) odměna za "inkaso" pohledávek dlužníka, jimiž byly zajištěny pohledávky věřitelů dlužníka, realizované v období od právní moci rozhodnutí o povolení reorganizace do přeměny reorganizace v konkurs"
+- *NS* [29 NSCR 54/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2A3D7F0A9A610FE0C1257F310036AF02?openDocument) — 30. 9. 2015, kat. A
+  > „Je-li v průběhu insolvenčního řízení činných více správců, je nezbytné v souladu s ustanovením § 6 vyhlášky č. 313/20007 Sb. nejprve stanovit jedinou celkovou odměnu insolvenčních správců pro celé řízení (dle ustanovení § 1 až § 5 vyhlášky) a následně určit podíly jednotlivých správců na této odměně. Celkovou odměnu nelze navyšovat jen proto, že v řízení bylo činných více insolvenčních správců"
+- *NS* [2 VSPH 91/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/559748AFA2FB7131C1257A4E0067CBA6?openDocument) — 11. 4. 2011, kat. A
+  > „O odměně insolvenčního správce za provedení úkonů potřebných k bezplatnému převodu bytů a nebytových prostor do vlastnictví oprávněné osoby podle ustanovení § 285 odst. 4 insolvenčního zákona rozhodne insolvenční soud na základě dohody insolvenčního správce a oprávněné osoby nebude-li tu takové dohody, určí insolvenční soud odměnu podle kritérií určených v ustanovení § 5 vyhlášky č. 313/2007 Sb"
+- *NS* [29 NSCR 27/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C1FA9E3D26EC61C3C1257A4E0067321E?openDocument) — 29. 9. 2010, kat. A
+  > „V insolvenčním řízení, v němž byl dlužníkův úpadek řešen konkursem a ve kterém nebyl zpeněžen žádný majetek náležející do majetkové podstaty dlužníka, nelze odměnu insolvenčního správce určit podle § 1 vyhlášky č. 313/2007 Sb. a je namístě postupovat podle § 5 této vyhlášky"
+
 #### Zbytková soudní úvaha
 
 § 5 je **subsidiární** pravidlo: použije se jen tehdy, „nelze-li odměnu určit postupem podle § 1 až 4". Teprve tehdy rozhodne o výši odměny insolvenční soud, a to s přihlédnutím zejména k délce doby, rozsahu a náročnosti vykonávané činnosti správce. Výčet kritérií je demonstrativní („zejména"); soud může zohlednit i další okolnosti, např. přínos činnosti pro věřitele nebo výsledky soupisu. Zákonnou oporou je § 38 odst. 1 věta první IZ (právo na odměnu) a § 38 odst. 8 IZ; zmocnění k určení „způsobu určení odměny" (§ 431 písm. b) IZ) zahrnuje i stanovení kritérií soudní úvahy.
@@ -471,6 +515,13 @@ Typicky jde o případy, kdy insolvenční řízení skončí dříve, než bylo
 > - b) podíl z odměny podle § 2a věty poslední odpovídající počtu přihlášek pohledávek jím zařazených do seznamu přihlášených pohledávek.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 3391/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/60102B20CDC2E50EC125885D0017DC4C?openDocument) — 28. 4. 2022, kat. A
+  > „Usnesení, jímž insolvenční soud poté, co určí jedinou celkovou odměnu insolvenčních správců pro celé řízení, ukládá insolvenčnímu správci dlužníka, aby z takto určené odměny do 15 dnů od právní moci usnesení vyplatil konkrétní částku (podíl na odměně) v insolvenčním řízení dříve činnému insolvenčnímu správci dlužníka, je ve smyslu ustanovení § 40a insolvenčního zákona exekučním titulem pro pohledávku za majetkovou podstatou dle § 168 odst. 2 písm. a/ insolvenčního zákona, která má být uspokojena z majetkové podstaty dlužníka a pro kterou proto nelze vést výkon rozhodnutí (exekuci) na majetek insolvenčního správce"
+- *NS* [29 NSCR 54/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2A3D7F0A9A610FE0C1257F310036AF02?openDocument) — 30. 9. 2015, kat. A
+  > „Je-li v průběhu insolvenčního řízení činných více správců, je nezbytné v souladu s ustanovením § 6 vyhlášky č. 313/20007 Sb. nejprve stanovit jedinou celkovou odměnu insolvenčních správců pro celé řízení (dle ustanovení § 1 až § 5 vyhlášky) a následně určit podíly jednotlivých správců na této odměně. Celkovou odměnu nelze navyšovat jen proto, že v řízení bylo činných více insolvenčních správců"
 
 #### Jedna odměna, více příjemců (odst. 1)
 
@@ -541,6 +592,13 @@ Působí-li v řízení více správců (včetně zástupce, odděleného, zvlá
 > (5) Věřitelský výbor se může s insolvenčním správcem dohodnout na náhradě některých hotových výdajů v paušální výši i u ostatních způsobů řešení úpadku.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 3321/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/477F95CE6E0F4B5FC1258915001B8083?openDocument) — 29. 9. 2022, kat. A
+  > „Důvod požadovat, aby k částce, jež se mu přiznává jako náhrada ušlého zisku, byla připočtena částka odpovídající dani z přidané hodnoty, by poškozený, který je plátcem daně z přidané hodnoty, měl jen tehdy, kdyby soudem přiznané plnění této dani podléhalo. Náhrada škody však není předmětem daně podle § 2 odst. 1 zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů, a tedy ani zdanitelným plněním ve smyslu ustanovení § 2 odst. 2 tohoto zákona. Pro posouzení nároku nesprávně opomenutého insolvenčního správce na ušlý zisk za odměnu ze zpeněžení je rozhodující, zda podle pravidelného běhu věcí bylo možné (při řádném průběhu daného insolvenčního řízení) takové zpeněžení (a odměnu z něj) očekávat. Nejde-li o změnu žaloby (§ 95 o. s. ř.), pak okolnost, že odvolatel uplatnil v průběhu odvolacího řízení nové skutečnosti nebo důkazy, které nastaly (vznikly) po…"
+- *NS* [29 NSCR 130/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/014EC774C3E841B5C12585EC0018AF4E?openDocument) — 29. 6. 2020, kat. A
+  > „Usnesení, jímž insolvenční soud rozhoduje o tom, zda insolvenčnímu správci povolí zálohu na odměnu a hotové výdaje, je rozhodnutím, které vydává při výkonu dohlédací činnosti [§ 10 písm. b) insolvenčního zákona ve spojení s § 11 insolvenčního zákona] a proti němuž není odvolání přípustné, jelikož insolvenční zákon nestanoví jinak (§ 91 insolvenčního zákona)"
 
 #### Vazba na zákon
 
